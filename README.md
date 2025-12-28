@@ -29,3 +29,15 @@ Welcome to my application repository. Here you can find the latest versions of m
 
 ### 🛠️ Need Support?
 If you encounter any issues during installation or have questions regarding security, please feel free to open an **Issue** in this repository or contact me directly.
+
+---
+
+### 📞 Connect with Me
+
+If you have any questions, feedback, or need technical support, feel free to reach out through the following channels:
+
+* **WhatsApp:** [💬 Chat on WhatsApp](https://wa.me/YOUR_PHONE_NUMBER) (Fastest Response)
+* **Facebook:** [👤 Follow on Facebook](https://www.facebook.com/YOUR_FB_ID_OR_USERNAME)
+* **Email:** [📧 Send an Email](mailto:your-email@example.com)
+
+---
