@@ -35,8 +35,8 @@ If you encounter any issues during installation or have questions regarding secu
 
 If you have any questions, feedback, or need technical support, feel free to reach out through the following channels:
 
-* **WhatsApp:** [💬 Chat on WhatsApp](https://wa.me/YOUR_PHONE_NUMBER) (Fastest Response)
-* **Facebook:** [👤 Follow on Facebook](https://www.facebook.com/YOUR_FB_ID_OR_USERNAME)
-* **Email:** [📧 Send an Email](mailto:your-email@example.com)
+* **WhatsApp:** [💬 Chat on WhatsApp](https://wa.me/8801893287484) (Fastest Response)
+* **Facebook:** [👤 Follow on Facebook](https://www.facebook.com/highlytech)
+* **Email:** [📧 Send an Email](mailto:support@highlytech.com)
 
 ---
