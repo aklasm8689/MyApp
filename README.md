@@ -18,12 +18,11 @@ Welcome to my application repository. Here you can find the latest versions of m
 
 ### 📦 Application Download List
 
-| Application Name | Platform | Version | Status | Download Link |
-| :--- | :---: | :---: | :---: | :--- |
-| **MobaDesk Server** | 💻 Win/Linux | v1.0.2 | `Stable` | [⬇️ Download EXE](https://drive.google.com/file/d/YOUR_ID/view) |
-| **MyApp One** | 📱 Android | v1.0.0 | `Stable` | [⬇️ Download APK](https://drive.google.com/file/d/FILE_ID_1/view) |
-| **MyApp Two** | 📱 Android | v1.2.0 | `Beta` | [⬇️ Download APK](https://drive.google.com/file/d/FILE_ID_2/view) |
-| **MyApp Three** | 📱 Android | v2.0.0 | `Latest` | [⬇️ Download APK](https://drive.google.com/file/d/FILE_ID_3/view) |
+| Application Name | Platform | Version | Download Link |
+| :--- | :--- | :---: | :--- |
+| **MobaDesk** | 💻 Windows | v1.0.2 | [⬇️ Download EXE](https://drive.google.com/uc?id=1ihc9XPQnnl_xjdfS0tq7vJ92OZyK3Pjc) |
+| **MobaDesk** | 💻 Linux Ubuntu | v1.0.2 | [⬇️ Download ZIP/DEB](https://drive.google.com/uc?id=1ihc9XPQnnl_xjdfS0tq7vJ92OZyK3Pjc) |
+| **MobaDesk** | 📱 Android | v1.0.0 | [⬇️ Download APK](https://drive.google.com/file/d/FILE_ID_1/view) |
 
 ---
 
