@@ -22,7 +22,7 @@ Welcome to my application repository. Here you can find the latest versions of m
 | :--- | :--- | :---: | :--- |
 | **MobaDesk** | 💻 Windows | v1.0.2 | [⬇️ Download exe](https://drive.google.com/uc?id=1ihc9XPQnnl_xjdfS0tq7vJ92OZyK3Pjc) |
 | **MobaDesk** | 💻 Linux | v1.0.2 | [⬇️ Download deb](https://drive.google.com/uc?id=19QE8NVAfle_DbdEFbWn3ufwXa0Aa62Au) |
-| **MobaDesk** | 📱 Android | v1.0.0 | [⬇️ Download apk](https://drive.google.com/file/d/FILE_ID_1/view) |
+| **MobaDesk** | 📱 Android | v1.0.0 | [⬇️ Download apk](https://drive.google.com/uc?id=14DfA4mCA4JMSbBRZyL76l6bNUc_pNQ76) |
 
 ---
 
