@@ -37,6 +37,6 @@ If you have any questions, feedback, or need technical support, feel free to rea
 
 * **WhatsApp:** [💬 Chat on WhatsApp](https://wa.me/8801893287484) (Fastest Response)
 * **Facebook:** [👤 Follow on Facebook](https://www.facebook.com/highlytech)
-* **Email:** [📧 Send an Email](mailto:support@highlytech.com)
+* **Email:** [📧 Send an Email](mailto:aklas.m8689@gmail.com)
 
 ---
